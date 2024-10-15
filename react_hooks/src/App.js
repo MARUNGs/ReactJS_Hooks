@@ -1,9 +1,9 @@
-import UseTab from "./hooks/useTab";
+import UsePageLeave from "./hooks/PageLeave";
 
 function App() {
   return (
     <div className="App">
-      <UseTab />
+      <UsePageLeave />
     </div>
   );
 }
